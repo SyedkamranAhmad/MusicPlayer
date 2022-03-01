@@ -23,12 +23,12 @@
         android:layout_height="50dp"
         android:layout_below="@id/IvSplash"
         android:layout_centerInParent="true"
+
         android:layout_marginStart="50dp"
         android:layout_marginEnd="50dp"
-
         android:foregroundGravity="center_vertical|center|center_horizontal"
         android:gravity="center|center_horizontal|center_vertical"
-        android:text="Welcome to the Application"
+        android:text="Welcome to SPIKE Application"
         android:textColor="#FFF"
         android:textSize="24sp"
         tools:ignore="HardcodedText" />
